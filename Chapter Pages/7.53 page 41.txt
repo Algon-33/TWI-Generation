@@ -1,0 +1,45 @@
+7.53
+Page 41
+Well, that just means you have more Erin to look forwards to. This was more about diplomacy…or lack thereof than Erin Solstice, although it had a good amount of it! Did you enjoy? Some parts were harder to write than others, and I might have been more sleep-deprived than I’d like.
+But I got it done. As always! And I’ll just say that the next chapter is coming…too soon…but enjoy this one and wait for the next! The art for this chapter is an updated Faerie Flower image by Enuryn, Tomeo’s portraits, and two comics and Erin with mercy-fire by ArtsyNada!
+ 
+Faerie Flower by Enuryn the [Naturalist]!
+
+
+ 
+Erin before and now, Ieka, Magnolia, [Witch] Erin and more by Tomeo!
+                                                                                        
+ 
+Bread, Dawn, and Mercy Fire by ArtsyNada!
+
+			#gallery-9275-8 {
+				margin: auto;
+			}
+			#gallery-9275-8 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-9275-8 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-9275-8 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

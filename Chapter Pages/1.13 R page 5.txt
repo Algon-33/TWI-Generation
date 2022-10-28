@@ -1,0 +1,65 @@
+1.13 R
+Page 5
+But the other adventurers—what were they like? The same. They enjoyed watching me fight. There was a hierarchy there, and the way they talked. ‘Work together. Don’t rock the boat. Keep your head down and maybe you’ll be okay.’
+ 
+The same. The same as those bullies. The little bastards who strut around in their small world, pushing everyone down so they feel taller. And if you stand up to them they run and hide, cry, retreat in the face of any kind of bravery but always stab from the corners and shadows with words and actions, those—
+ 
+void bullyMethodology() {
+do {
+if (bullies.size() >= 1){
+System.out.print(hurtfulWords);
+System.out.print(internalizedRacism);
+System.out.print(thoughtlessBile);
+if (bully.aggression >= 2){
+hurt(bully, victim);
+}
+}else{
+Bully b = new Bully(individual, victim);
+bullies.add(b);
+}
+if (victim.isStillResisting == true){
+bully.aggression++;
+if (victim.fightingAbility >= bully.fightingAbility) {
+makeFalseAccusation(bully, victim);
+cowardlyAttack(bully, victim);
+spreadLies(bully, victim);
+}
+}
+} while (victim.alive == true);
+}
+//Of course, a bully is not an individual but a group. And the group dynamics mean all bully the ones who stand out so that a group can be a group. There can be no unity without someone to band together to hurt.
+ 
+I hate them all. I will never forget them or their smallness. The world would be better off without them.
+ 
+Yeah. Better off if they were dead.
+ 
+I can’t keep thinking like this. When the fury boils in me and I want to lash out—it’s the same. The same. But at the wrong targets this time.
+I stop and fish around in my pocket. There. My iPhone. The screen wonderfully, magically lights up. There’s not much power left. Too much listening to it during the night. Should have turned down the screen brightness. But enough.
+I hit shuffle and the music starts. Centuries by Fall Out Boy starts playing. Good music. But—not the right music for the moment.
+I switch to the next track. Counting Stars by One Republic. Better. Faster.
+ 
+You can’t hide. You can’t run from what you’ve done. Not here.
+ 
+Normally the music can drown out all of the voices. But not this time. They’re too loud. But I keep going. I walk faster and switch to the next song. A better one.
+Another One Republic song starts playing, but this is a collaboration. Timbaland’s Apologize ft. One Republic.
+For a second my finger hovers over the next button. But I keep walking. The song hurts. But that’s fine.
+“It’s too late to apologize.”
+I speak it to the desolate wasteland. The faint, cold breeze takes my words away.
+Yeah. Too late.
+ 
+Except it’s not too late.
+ 
+If I could rip out the insides of my head I would. But I can’t. My feet bleed. They’re in agony. But even the pain and the music isn’t enough.
+ 
+Go back. Grovel. Put aside your useless pride for once and maybe if you are sincere and humble they will find it in their hearts to forgive you.
+ 
+Too late. Too late and I can’t do it. I don’t know how.
+ 
+You’ve never tried. And these are the best people you’ve met. Good people. You admire them. Secretly, you want to be like them, don’t you? Free. You’d rather be an adventurer than a Runner, but you’re afraid of what you’ll find inside yourself if you start killing.
+ 
+Shut up.
+ 
+You’d rather level up and be part of this world, but you can’t believe it’s real. You can’t be part of anything larger than yourself because you fear it. But you like the Horns of Hammerad. You owe them.
+ 
+Ceria.
+ 

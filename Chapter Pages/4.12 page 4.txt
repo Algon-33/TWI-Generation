@@ -1,0 +1,29 @@
+4.12
+Page 4
+“I’ll think about it. But could I borrow Pisces? I need his help for some research?”
+“Research? Hey Pisces! Get over here! What are you looking into?”
+Ceria eyed Ryoka curiously as Pisces walked over, looking disgruntled at being summoned.
+“Ah, Miss Ryoka. What may I help you with? Or am I not permitted to know the details of this endeavor either?”
+Ceria stamped on Pisces’ foot and he hopped around, shouting while Ryoka explained. The [Necromancer] stopped yelping and his eyes lit up when she mentioned the door.
+“Ah, a project to measure the door’s capacity? Well now, that is an interesting subject. May I take it that you intend for me to test the limits of the enchantment?”
+Ryoka nodded.
+“Is there some way to tell how much energy the door consumes? Definitively, I mean.”
+Pisces sniffed.
+“Well, Erin did manage to find the effective limit by jumping through it repeatedly. But I suppose that is not the aim of your inquiry?”
+Ryoka gave him a look.
+“Jumping through a door isn’t exactly a precise measurement. I’m just asking if there’s a way to calculate exactly how much energy is used per transportation. Is there a limit to weight or mass? How does distance affect the drain? Can you reduce the magic consumed into a figure and derive the maximum travelable distance from that figure?”
+Ceria’s eyes went slightly cross-eyed, but Pisces’ eyes lit up. He stared curiously at Ryoka for a second and then smiled.
+“Astounding. You seem to have a fascinatingly astute mind for magical theory. Have you some kind of connection with the [Engineer] class, by any chance?”
+Ryoka smiled slightly.
+“You could say that. Will you help?”
+“I have nothing better to do, and the subject interests me as well. Very well.”
+Pisces and Ryoka strode over to the door, Mrsha padding over behind them and watching curiously as they bent over the door. The Gnoll stared as Ryoka and Pisces opened the door and started chatting about the effects of the teleportation spell. She got bored and watched Revi poking herself with a dagger. Pisces and Ryoka’s conversation wasn’t exactly riveting.
+“I understand that Erin’s new Skill provides the inn with a lot of mana. How fast does it replenish, though?”
+“If it works under the principle of a site of high ambient magical power, like a mass graveyard or perhaps Wistram Academy for example, it would be a daily influx of energy with a set upper limit to the environs. However, I believe it is the door’s individual capacity that should be measured.”
+“Oh? You’re saying the enchantment can only hold so much mana itself?”
+Pisces sniffed.
+“Naturally. This enchantment is built into the very wood and is of exceptional quality, but the most complex ward or binding has its limit. That is why the best enchantments on weapons, or objects such as this door, have mechanisms that allow them to recharge themselves.”
+“So that’s our variable. Right. Well, if we’re testing how many times it can be used, we need to tell how much the maximum is.”
+“There are several ways to determine that. But I believe exhausting the supply and deriving the limit from usage would be easiest.”
+“Right. But just teleporting to Celum gives us only one variable. I’m suggesting that I teleport from set distances—”
+“Naturally, naturally. We must account for the variable of distance as well as mass and weight. You need not lecture me on basic theory…although I am surprised I need not do the same for you, Miss Griffin.”

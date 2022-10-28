@@ -1,0 +1,48 @@
+8.60
+Page 44
+Saliss: I think I know who you are, ‘Alchemist I’. How did you get over here? I wouldn’t feed your ‘antidotes’ to Crelers.
+Alchemist I: You couldn’t cure Creler poison.
+Witch A: <3 :) :) :)
+Alchemist I: Thank you.
+Saliss: That’s it. I’m preparing a set of antidotes right now. I’ve created water-soluble liquids and I’m forwarding them to the [Researchers] and we’ll see how good my cures are.
+Alchemist I: And I will demonstrate actual progress on my end shortly. Heading to my laboratory now.
+GSNF: Dead gods. Sands save me from competing egos. Will someone start writing recipes? I’ll trial both.
+Saliss: I’ll write down each successful iteration. You know who I have helping me? Alchemist Xif of Pallass himself.
+Alchemist I: …Is that a net benefit?
+Saliss: How dare you. Xif is the most hard-working, respected [Alchemist] in Pallass—aside from me. He is a credit to the City of Invention, and you will not slander his good name.
+Witch A: Maybe I will make a cure too. I am good with ingredients.
+Alchemist I: …That would be helpful, but I believe we have enough expertise on our end to formulate a cure if possible, Miss Witch A.
+Saliss: Yeah, what he said.
+Witch A: (ಠ_ಠ). I am a [Witch]. I am good at magic and alchemy.
+Saliss: Yeah. Sort of in both.
+Alchemist I: We are both [Alchemists].
+Witch A: (ಠ_ಠ)(ಠ_ಠ)(ಠ_ಠ). I will hex you. I am better. I will make a potion. I have better Skills and levels.
+Saliss: Listen to this. Let’s find out. Put your exploding bottle where your mouth is. I’ll have my first entry here in 15 minutes.
+Alchemist I: 10.
+GSNF: Sigh.
+ 
+However, it still meant there were two, possibly three [Alchemists] competing. Not even that.
+ 
+Sandquen: I have two [Alchemists] looking into these cures.
+RainyEarl: I commissioned one a month ago.
+Wall Lord Ilvriss: I, as well, believe I have at least ten in a research team undergoing trials.
+Fetohep: I have eighty-eight. The issue is not the cure itself, but a new reagent or…spell. If anything, I believe the antidote is lesser to a more adept ice spell.
+Wall Lord Ilvriss: True. We have had only standard [Mages] researching spells. Is there any capable [Cryomancer] here? Anyone with a passing knowledge of such magic?
+Eldavin: You could say that.
+Magus G: Perhaps. I also know about the body’s interactions with cold.
+Viscount V: I too, am similarly proficient in ice magic.
+Ice Squirrel: Me?
+Queen R: I as well.
+Rhis: Hm…
+ArchmageV: I know in excess of three hundred spells, yes.
+Anonymous Spellcaster A: I hope to be of some small assistance with you all.
+ 
+The Vizir’s head rose triumphantly. Fetohep smiled, and he heard the ghosts cheering. He bent over the scroll.
+ 
+Fetohep: I am prepared to offer a prize for any spell that is most effective, whereupon I introduce ‘Researcher Dromenl’ and ‘Cryomancer Ulea’ who have led the issue. They may communicate more, but the issue as it is presented to me is that the body is damaged when heated unevenly. A superior, elegant magic is required.
+Lionette: Thank you all for helping. I and Wall Lord Ilvriss will also contribute in any way if that is an incentive at all, not that I would dare to assume I can add to Khelt’s largesse.
+Mri: Yes, thank you. Please help her.
+Viscount V: Not to disturb those here, but I must ask: this young woman frozen is alive, is she not?
+Lionette: Neither [Detect Life] nor [Detect Death] work on her.
+Viscount V: That is not…entirely encouraging. An object would also fail to register on both spells.
+Eldavin: I assure you, a dead body would have some residual death magic.

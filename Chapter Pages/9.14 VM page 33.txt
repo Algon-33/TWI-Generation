@@ -1,0 +1,31 @@
+9.14 VM
+Page 33
+And yet—the [Clockmaker] poured himself a cup of tea as Valeterisa sat with him and smiled.
+“It is a lovely piece of art. A poor clock. Light must dictate the time, and I think even someone who trusted the clock would look out the window—just in case it were wrong. It fails if there’s a storm and tells no time at night. What kind of a useful clock is that?”
+Montressa hesitated.
+“I know it’s not always practical, but the Mage’s Guild has the time even in the night.”
+“Correct. And they transmit the times to each other to make sure they’re right and ask Fissival, or Wistram, what time it is. They’re off a few minutes some days, but they can always confirm with Wistram or Fissival. Because we have better clocks. Take a look at this.”
+So saying, Milaw showed Montressa a completely different type of clock. It had no sensors, nor did it take in light. There was no ticking sound from within, but as Montressa watched, a minute-hand moved slowly, and the hour hand seemed in the right place.
+“This is a Math Clock. Far less popular because they require manual setting and they require mana stones, rather than the almost mana-free Sun Clocks. They run purely on numbers.”
+“How?”
+Montressa stared at the clock, and, for answer, Valeterisa lifted one finger. She projected a beam of light straight up, and Montressa’s eyes narrowed.
+“[Measure Distance].”
+Milaw produced a wand and performed the same spell.
+“Light is a constant, Miss Montressa. So—a Math Clock shoots a beam of light in a tiny part of the clock. Constantly, and it measures how long it took for the beam to travel. It must add, and add, and add—until it reaches what we call a second. Then it moves this gear here.”
+He opened the panel and showed her a gear. Then it was simple. Sixty seconds equaled a minute. Each minute, the turning second-gear rotated the minute-hand, and the entire clock moved.
+“There are other methods. Some have hourglasses built in, which measure one minute and simply rotate. Others? They let a single drop of water fall. I use light. It takes the most energy, so my clocks need constant recharging.”
+“And they are the most accurate clocks of all the Math Clocks. Milaw taught me [Measure Distance], Montressa. He works part-time as a [Builder].”
+“[Supervisor]. I’ve changed my class.”
+“Oh. Congratulations. I should have bought you a ‘cake’.”
+“The gears will do, and seeing you is a treat enough. I thought you were dead. Everyone did. You didn’t answer any [Message] spells, no one had seen you in years…”
+Milaw rested a hand on Valeterisa’s shoulder, and she flinched.
+“I was trapped. I made a mistake, and I nearly died.”
+“That’s Valeterisa, the greatest [Mage] to come from our streets.”
+The conversation was so surprisingly serious and intimate that Montressa was almost as embarrassed as Valeterisa, who looked away from the old [Clockmaker]’s proud expression. He knew her. He must have helped raise her. Because she was curious, Montressa had to ask—
+“How are you a [Builder]—er, [Supervisor], Master Milaw?”
+He chuckled.
+“Only because I help make sure everything is straight. All the numbers line up—and that everything is level. I keep telling the others they can do it with a glass of water. Just see if it’s straight. But magic is in Fissival’s blood. If you can’t do it with magic, it can’t be done at all. So—”
+He pointed his wand, and a line of light shot out. A little number popped into being over the counter.
+0.0003411…
+Montressa’s eyes narrowed.
+“What is that?”
